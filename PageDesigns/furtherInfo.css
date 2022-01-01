@@ -2,7 +2,6 @@ body {
     font-family: "Raleway", sans-serif;
     color: #fafafa;
     background-color: rgb(46, 46, 46);
-    padding-top: 50px;
 }
 
 
@@ -34,6 +33,10 @@ body {
 }
 
 /* ABOUT */
+
+.about {
+    padding-top: 100px;
+}
 
 .about .content h3 {
     font-weight: 700;
