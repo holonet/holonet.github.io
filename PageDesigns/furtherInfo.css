@@ -1,0 +1,60 @@
+body {
+    font-family: "Raleway", sans-serif;
+    color: #fafafa;
+    background-color: rgb(46, 46, 46);
+}
+
+
+
+/* NAVIGATION */
+
+.topnav {
+
+    overflow: hidden;
+    background-color: rgb(66, 66, 66);
+}
+
+
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.topnav a:hover {
+    color: #49c5ff;
+    background-color: rgb(117, 112, 112);
+    text-decoration: none;
+}
+
+/* ABOUT */
+
+.about .content h3 {
+    font-weight: 700;
+    font-size: 46px;
+    color: #3b72c0;
+}
+
+.about .content ul {
+    list-style:none;
+    padding: 0;
+}
+
+.about .content ul li {
+    padding-bottom: 10px;
+}
+
+.about .content ul i {
+    font-size: 40px;
+    padding-right: 2px;
+    color: #3b72c0;
+}
+
+.about .content p:last-child {
+    margin-bottom: 0;
+}
