@@ -35,17 +35,22 @@ body {
 /* ABOUT */
 
 .about .content h3 {
+    padding-top: 50px;
     font-weight: 700;
     font-size: 46px;
     color: #3b72c0;
 }
 
 .about .content ul {
+    padding-top: 50px;
     list-style:none;
     padding: 0;
 }
 
-
+.about .content ul li {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
 
 .about .content ul i {
     font-size: 40px;
