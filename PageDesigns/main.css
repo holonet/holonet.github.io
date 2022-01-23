@@ -29,7 +29,7 @@ h2 {
   margin-bottom: 50px;
   font-size: 30px;
   font-family: "Poppins", sans-serif;
-  border-bottom: 5px solid #149ddd;
+  border-bottom: 5px inset #149ddd;
 }
 
 .home-section span {
@@ -45,8 +45,7 @@ h2 {
 
   overflow: hidden;
   background-color: rgb(66, 66, 66);
-  border-bottom: 5px solid #149ddd;
-  border-style: inset;
+  border-bottom: 5px inset #149ddd;
 }
 
 
