@@ -6,32 +6,7 @@ body {
 
 
 
-/* NAVIGATION */
 
-.topnav {
-
-    overflow: hidden;
-    background-color: rgb(66, 66, 66);
-    border-bottom: 2px inset #149ddd;
-}
-
-
-
-.topnav a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-
-}
-
-.topnav a:hover {
-    color: #49c5ff;
-    background-color: rgb(117, 112, 112);
-    text-decoration: none;
-}
 
 /* ABOUT */
 
