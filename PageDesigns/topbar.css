@@ -12,9 +12,9 @@
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
     border: 1px inset #149ddd;
-    margin: 0px 2px 0px 2px
+    text-decoration: none;
+    
 }
 
 .topnav a:hover {
