@@ -13,7 +13,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    border-color: 1px inset #149ddd;
+    border: 1px inset #149ddd;
 }
 
 .topnav a:hover {
