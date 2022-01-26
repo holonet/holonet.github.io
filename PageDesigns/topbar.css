@@ -2,6 +2,7 @@
     overflow: hidden;
     background-color: rgb(66, 66, 66);
     border-bottom: 1px inset #149ddd;
+    font-weight: bold;
 }
 
 
@@ -15,7 +16,6 @@
     border-top: 1px inset #149ddd;
     border-right: 1px inset #149ddd;
     border-left: 1px inset #149ddd;
-    font-weight: bold;
     text-decoration: none;
     
 }
