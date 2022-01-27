@@ -8,6 +8,5 @@
 }
 
 .c_card:hover {
-    color: #49c5ff;
-    background-color: rgb(0, 89, 255);
+    transform: scale(50);
 }
