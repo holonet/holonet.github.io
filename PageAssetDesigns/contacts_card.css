@@ -1,6 +1,6 @@
 .c_card {
     overflow: hidden;
-    background-color: rgb(66, 66, 66);
+    background-color: rgb(255, 255, 255);
     border: 1px inset #149ddd;
     position: fixed;
     float: right;
@@ -9,6 +9,6 @@
 
 .c_card:hover {
     color: #49c5ff;
-    background-color: rgb(117, 112, 112);
+    background-color: rgb(0, 89, 255);
     text-decoration: none;
 }
