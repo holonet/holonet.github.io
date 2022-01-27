@@ -1,9 +1,10 @@
 .c_card {
+    width: 15%;
+    height: 15%;
     overflow: hidden;
     background-color: rgb(255, 255, 255);
     border: 1px inset #149ddd;
     float: right;
-    box-sizing: content-box;
 }
 
 .c_card:hover {
